@@ -1,4 +1,4 @@
-INS #,Approvals A,Approvals E,Approvals U,Names,Type
+INS,Approvals A,Approvals E,Approvals U,Names,Type
 100,A,E,U,curcumins,colour
 100(i),A,E,U,curcumin,colour (yellow and orange)
 100(ii),A,E,U,turmeric,colour (yellow and orange)
@@ -77,7 +77,7 @@ INS #,Approvals A,Approvals E,Approvals U,Names,Type
 163(iii),A,E,,Blackcurrant extract,colour
 163(iv),A,E,,Purple corn colour,colour
 163(v),A,E,,Red cabbage colour,colour
-164,A,,,Gardenia yellow
+164,A,,,Gardenia yellow,
 165,,,,Gardenia blue,colour
 166,,,,sandalwood,colour
 170,,E,,calcium carbonates,
@@ -349,7 +349,7 @@ INS #,Approvals A,Approvals E,Approvals U,Names,Type
 577,A,E,,potassium gluconate,stabiliser
 578,A,E,,calcium gluconate,acidity regulator
 579,A,E,,ferrous gluconate,colour retention agent
-585,,E,,ferrous lactate
+585,,E,,ferrous lactate,
 620,A,E,,glutamic acid,flavour enhancer
 621,A,E,,monosodium glutamate (MSG),flavour enhancer
 622,A,E,,monopotassium glutamate,flavour enhancer

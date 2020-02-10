@@ -1,6 +1,6 @@
 {
   "name": "food-ins",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "The International Numbering System for Food Additives (INS) is a European-based naming system for food additives, aimed at providing a short designation of what may be a lengthy actual name.",
   "main": "index.js",
   "scripts": {

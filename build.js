@@ -13,7 +13,7 @@ function read(file, fn) {
 };
 
 function convert(row) {
-  var code = row['INS #'];
+  var code = row['INS'];
   var status = row['Approvals A'].includes('A')? 'a ':'';
   status += row['Approvals E'].includes('E')? 'e ':'';
   status += row['Approvals E'].includes('U')? 'u ':'';
