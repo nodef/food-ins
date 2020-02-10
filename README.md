@@ -7,6 +7,94 @@ organisation of the [World Health Organisation] (WHO) and [Food and Agriculture 
 1989, with revisions in 2008 and 2011. The INS is an open list, "subject to the inclusion of
 additional additives or removal of existing ones on an ongoing basis".
 
+
+## console
+
+```bash
+foode "E101a"
+# E101a: Riboflavin-5'-Phosphate
+# .type: color (Yellow-orange); .status: e
+
+foode "101 a"
+# E101a: Riboflavin-5'-Phosphate
+# .type: color (Yellow-orange); .status: e
+
+foode "riboflavin"
+# E101a: Riboflavin-5'-Phosphate
+# .type: color (Yellow-orange); .status: e
+#
+# E106: Riboflavin-5-Sodium Phosphate
+# .type: color (Yellow); .status: 
+# ...
+```
+
+### reference 
+
+```bash
+foode [options] <query>
+# query: code, name, type, or status of food additive
+# Options:
+# --help: show this help
+# --silent: hide error messages
+
+# Environment variables:
+$FOODE_SILENT # hide error messages (0)
+```
+<br>
+
+
+## javascript
+
+```javascript
+const foode = require('food-e');
+
+foode('E101a');
+// [ { code: 'E101a',
+//     names: 'Riboflavin-5\'-Phosphate',
+//     type: 'color (Yellow-orange)',
+//     status: 'e' } ]
+
+foode('101 a');
+// [ { code: 'E101a',
+//     names: 'Riboflavin-5\'-Phosphate',
+//     type: 'color (Yellow-orange)',
+//     status: 'e' } ]
+
+foode('riboflavin');
+// [ { code: 'E101a',
+//     names: 'Riboflavin-5\'-Phosphate',
+//     type: 'color (Yellow-orange)',
+//     status: 'e' },
+//   { code: 'E106',
+//     names: 'Riboflavin-5-Sodium Phosphate',
+//     type: 'color (Yellow)',
+//     status: '' },
+//   ... ]
+```
+
+### reference
+
+| Method              | Action
+|---------------------|-------
+| [foode]             | Lists matching food additives.
+| [load]              | Preloads food additive data (before use).
+| [sql]               | Gives commands to insert data to SQL database.
+| [csv]               | Gives path of data CSV file.
+| [corpus]            | Keeps food additive data. {field}
+
+<br>
+<br>
+
+[![nodef](https://merferry.glitch.me/card/food-e.svg)](https://nodef.github.io)
+
+[foode]: https://github.com/nodef/food-e/wiki
+[load]: https://github.com/nodef/food-e/wiki/load
+[sql]: https://github.com/nodef/food-e/wiki/sql
+[csv]: https://github.com/nodef/food-e/wiki/csv
+[corpus]: https://github.com/nodef/food-e/wiki/corpus
+
+
+
 ```javascript
 const foodins = require('food-ins');
 // foodins.corpus: Map {code => {code, names, type, status}}
