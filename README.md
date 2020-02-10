@@ -9,6 +9,59 @@ organisation of the [World Health Organisation] (WHO) and [Food and Agriculture 
 1989, with revisions in 2008 and 2011. The INS is an open list, "subject to the inclusion of
 additional additives or removal of existing ones on an ongoing basis".
 
+```javascript
+const foodins = require('food-ins');
+// foodins(<query text>)
+// -> [{code, names, type, status}]
+
+foodins('102');
+// [ { code: '102',
+//     names: 'tartrazine',
+//     type: 'colour (yellow and orange) (FDA: FD&C Yellow #5)',
+//     status: 'a e' } ]
+
+foodins('ins 102');
+// [ { code: '102',
+//     names: 'tartrazine',
+//     type: 'colour (yellow and orange) (FDA: FD&C Yellow #5)',
+//     status: 'a e' } ]
+
+foodins('ins 160 d (iii)');
+// [ { code: '160d(iii)',
+//     names: 'lycopene, Blakeslea trispora',
+//     type: 'colour',
+//     status: 'a e' },
+//   { code: '160d', names: 'lycopenes', type: '', status: 'a e' },
+//   { code: '160d(i)',
+//     names: 'lycopene, synthetic',
+//     type: 'colour',
+//     status: 'a e' },
+//   { code: '160d(ii)',
+//     names: 'lycopene, tomato',
+//     type: 'colour',
+//     status: 'a e' },
+//   { code: '160a(iii)',
+//     names: 'beta-carotene, Blakeslea trispora',
+//     type: 'colour',
+//     status: 'a e' },
+//   { code: '163(iii)',
+//     names: 'Blackcurrant extract',
+//     type: 'colour',
+//     status: 'a e' },
+//   { code: '101(iii)',
+//     names: 'riboflavin from Bacillus subtilis',
+//     type: 'colour (yellow and orange)',
+//     status: 'a e' },
+//   { code: '172(iii)',
+//     names: 'iron oxide, yellow',
+//     type: 'colour',
+//     status: 'a e' },
+//   { code: '150c',
+//     names: 'caramel III – ammonia caramel',
+//     type: 'colour (brown and black)',
+//     status: 'a e' } ]
+```
+
 
 [European]: https://en.wikipedia.org/wiki/Europe
 [food additives]: https://en.wikipedia.org/wiki/Food_additive
