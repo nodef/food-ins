@@ -1,4 +1,4 @@
-The **International Numbering System for Food Additives** (**INS**) is a [European]-based
+The **International Numbering System for Food Additives** ([INS]) is a [European]-based
 naming system for [food additives], aimed at providing a short designation of what may be a
 lengthy actual name. It is defined by [Codex Alimentarius], the international food standards
 organisation of the [World Health Organisation] (WHO) and [Food and Agriculture Organization]
@@ -9,6 +9,10 @@ additional additives or removal of existing ones on an ongoing basis".
 
 ```javascript
 const foodins = require('food-ins');
+// foodins.corpus: Map {code => {code, names, type, status}}
+// foodins.load(): true (corpus loaded)
+// foodins.sql([table], [options]): sql commands
+// foodins.csv(): path to csv file
 // foodins(<query text>)
 // -> [{code, names, type, status}]
 
@@ -59,8 +63,12 @@ foodins('ins 160 d (iii)');
 //     type: 'colour (brown and black)',
 //     status: 'a e' } ]
 ```
+<br>
+<br>
 
+[![nodef](https://merferry.glitch.me/card/food-ins.svg)](https://nodef.github.io)
 
+[INS]: https://en.wikipedia.org/wiki/International_Numbering_System_for_Food_Additives
 [European]: https://en.wikipedia.org/wiki/Europe
 [food additives]: https://en.wikipedia.org/wiki/Food_additive
 [Codex Alimentarius]: https://en.wikipedia.org/wiki/Codex_Alimentarius
