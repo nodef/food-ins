@@ -25,7 +25,7 @@ function convert(row) {
 
 function load() {
   var z = [];
-  return read('data.csv', (row) => z.push(convert(row))).then(() => z);
+  return read('index.csv', (row) => z.push(convert(row))).then(() => z);
 };
 
 load().then((rows) => {
