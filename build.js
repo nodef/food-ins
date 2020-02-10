@@ -16,7 +16,7 @@ function convert(row) {
   var code = row['INS'];
   var status = row['Approvals A'].includes('A')? 'a ':'';
   status += row['Approvals E'].includes('E')? 'e ':'';
-  status += row['Approvals E'].includes('U')? 'u ':'';
+  status += row['Approvals U'].includes('U')? 'u ':'';
   var names = row['Names'];
   var type = row['Type'];
   status = status.trim();
