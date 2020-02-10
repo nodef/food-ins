@@ -1,0 +1,437 @@
+INS #,Approvals A,Approvals E,Approvals U,Names,Type
+100,A,E,U,curcumins,colour
+100(i),A,E,U,curcumin,colour (yellow and orange)
+100(ii),A,E,U,turmeric,colour (yellow and orange)
+101,A,E,,riboflavins,
+101(i),A,E,,"riboflavin, synthetic (vitamin B2)",colour (yellow and orange)
+101(ii),A,E,,Riboflavin-5'-phosphate,colour (yellow and orange)
+101(iii),A,E,,riboflavin from Bacillus subtilis,colour (yellow and orange)
+102,A,E,,tartrazine,colour (yellow and orange) (FDA: FD&C Yellow #5)
+103,A,,,"alkannin, chrysoine resorcinol",colour (red)
+104,A,E,,Quinoline Yellow WS,colour (yellow and orange) (FDA: D&C Yellow #10)
+107,,E,,Yellow 2G,colour (yellow and orange)
+110,A,E,,Sunset Yellow FCF,colour (yellow and orange) (FDA: FD&C Yellow #6)
+111,?,E,,Orange GGN. Delisted,colour (orange)
+120,A,E,,"Cochineal, carmines",colour (red)
+121,,,,"Citrus red 2, Orcein, Orchil",colour (red)
+122,A,E,,"azorubine, carmoisine",colour (red) (FDA: Ext D&C Red #10)
+123,,E,,amaranth,colour (red) (FDA: [DELISTED] Red #2)
+124,A,E,,"Brilliant Scarlet 4R, Ponceau 4R",colour (FDA: Ext D&C Red #8)
+125,,,,"Ponceau SX, Scarlet GN",colour
+126,,,,Ponceau 6R. Delisted,colour
+127,,E,,erythrosine,colour (red) (FDA: FD&C Red #3)
+128,,E,,Red 2G,colour
+129,A,E,,Allura red AC,colour (FDA: FD&C Red #40)
+130,,,,Indanthrene blue RS,colour (blue)
+131,,E,,Patent blue V,colour (blue)
+132,A,E,,"indigo carmine, indigotine",colour (blue) (FDA: FD&C Blue #2)
+133,A,E,,Brilliant blue FCF,colour (FDA: FD&C Blue #1)
+140,A,E,,chlorophylls,colour (green)
+141,A,E,,"Chlorophylls and chlorophyllins, copper complexes",
+141(i),,,,"Chlorophylls, copper complexes",colour (green)
+141(ii),,,,"Chlorophyllins, copper complexes, potassium and sodium salts",colour (green)
+142,A,E,,Green S,colour (green)
+143,A,E,,Fast green FCF,colour (FDA: FD&C Green #3)
+150,A,E,,Caramels,
+150a,A,E,,caramel I – plain,colour (brown and black)
+150b,A,E,,caramel II – sulfite caramel,colour (brown and black)
+150c,A,E,,caramel III – ammonia caramel,colour (brown and black)
+150d,A,E,,caramel IV – sulfite ammonia caramel,colour (brown and black)
+151,A,E,,Brilliant Black BN (Black PN),colour (brown and black)
+152,?,?,,Carbon black,colour (brown and black)
+153,A,E,,Vegetable carbon,colour (brown and black)
+154,,E,,Brown FK,colour (brown and black)
+155,A,E,,Chocolate Brown HT,colour
+160a,A,E,,carotenes,
+160a(i),A,E,,"beta-carotene, synthetic",colour
+160a(ii),A,E,,"beta-carotene, vegetable",colour
+160a(iii),A,E,,"beta-carotene, Blakeslea trispora",colour
+160a(iv),A,E,,"beta-carotene, algae",colour
+160b,,E,,annatto extracts,
+160b(i),,E,,"annatto extracts, bixin-based",colour
+160b(ii),,E,,"annatto extracts, norbixin-based",colour
+160c,A,E,,paprika oleoresin (paprika extract),colour
+160d,A,E,,lycopenes,
+160d(i),A,E,,"lycopene, synthetic",colour
+160d(ii),A,E,,"lycopene, tomato",colour
+160d(iii),A,E,,"lycopene, Blakeslea trispora",colour
+160e,A,E,,beta-apo-8'-carotenal (C 30),colour
+160f,A,E,,beta-apo-8'-carotenic acid ethyl ester,colour
+161a,A,,,flavoxanthin,colour
+161b,A,E,,luteins,
+161b(i),A,E,,lutein from Tagetes erecta,colour
+161b(ii),A,E,,Tagetes extract,colour
+161c,A,,,kryptoxanthin,colour
+161d,A,,,rubixanthin,colour
+161e,A,,,violaxanthin,colour
+161f,A,,,rhodoxanthin,colour
+161g,,E,,canthaxanthin,colour
+161h,?,?,,zeaxanthins,colour
+161h(i),?,?,,"zeaxanthin, synthetic",colour
+161h(ii),?,?,,zeaxanthin-rich extract from Tagetes erecta,colour
+161i,?,?,,citranaxanthin. Delisted,colour
+161j,?,?,,astaxanthin. Delisted,colour
+162,A,E,,beet red,colour
+163,A,E,,anthocyanins,colour
+163(ii),A,E,,Grape skin extract,colour
+163(iii),A,E,,Blackcurrant extract,colour
+163(iv),A,E,,Purple corn colour,colour
+163(v),A,E,,Red cabbage colour,colour
+164,A,,,Gardenia yellow
+165,,,,Gardenia blue,colour
+166,,,,sandalwood,colour
+170,,E,,calcium carbonates,
+170(i),,E,,calcium carbonate,"Acidity regulator, anticaking agent, stabilizer, surface colourant"
+170(ii),,E,,calcium hydrogen carbonate,"Acidity regulator, anticaking agent, stabilizer, surface colourant"
+171,A,E,,titanium dioxide,colour (white)
+172,A,E,,iron oxides,
+172(i),A,E,,"iron oxide, black",colour
+172(ii),A,E,,"iron oxide, red",colour
+172(iii),A,E,,"iron oxide, yellow",colour
+173,,E,,aluminium,colour (silver)
+174,,E,,silver,colour (silver)
+175,,E,,gold,colour (gold)
+180,,E,,Lithol Rubine BK,colour
+181,,E,,tannins,"colour, emulsifier, stabiliser, thickener"
+182,,,,orchil,colour
+200,,E,,sorbic acid,preservative
+201,,,,sodium sorbate,preservative
+202,,E,,potassium sorbate,preservative
+203,,E,,calcium sorbate,preservative
+209,,,,heptyl p-hydroxybenzoate,preservative
+210,,E,,benzoic acid,preservative
+211,A,E,,sodium benzoate,preservative
+212,A,E,,potassium benzoate,preservative
+213,A,E,,calcium benzoate,preservative
+214,,E,,ethyl para-hydroxybenzoate,preservative
+215,,E,,sodium ethyl para-hydroxybenzoate,preservative
+216,A,,,propylparaben (propyl para-hydroxybenzoate),preservative
+217,,,,sodium propyl para-hydroxybenzoate,preservative
+218,A,E,,methylparaben (methyl para-hydroxybenzoate),preservative
+219,,E,,sodium methyl para-hydroxybenzoate,preservative
+220,A,E,,sulfur dioxide,"preservative, antioxidant"
+221,A,E,,sodium sulfite,"preservative, antioxidant"
+222,A,E,,sodium bisulfite (sodium hydrogen sulfite),"preservative, antioxidant"
+223,A,E,,sodium metabisulfite,"preservative, antioxidant, bleaching agent"
+224,A,E,,potassium metabisulfite,"preservative, antioxidant"
+225,A,,,potassium sulfite,"preservative, antioxidant"
+226,,E,,calcium sulfite,"preservative, antioxidant"
+227,,E,,"calcium bisulfite, calcium hydrogen sulfite","preservative, antioxidant"
+228,A,E,,"potassium bisulfite, potassium hydrogen sulfite","preservative, antioxidant"
+230,,E,,diphenyl (biphenyl),preservative
+231,,E,,orthophenyl phenol (2-hydroxybiphenyl),preservative
+232,,E,,sodium orthophenyl phenol,preservative
+233,,,,thiabendazole,preservative
+234,A,E,,nisin,preservative
+235,A,E,,natamycin (pimaricin),preservative
+236,,,,formic acid,preservative
+237,,,,sodium formate,preservative
+238,,,,calcium formate,preservative
+239,,E,,hexamethylene tetramine (hexamine),preservative
+240,,,,formaldehyde,preservative
+241,,,,gum guaicum,preservative
+242,A,E,,dimethyl dicarbonate,preservative
+249,A,E,,potassium nitrite,"preservative, colour fixative"
+250,A,E,,sodium nitrite,"preservative, colour fixative"
+251,A,E,,sodium nitrate,"preservative, colour fixative"
+252,A,,,potassium nitrate,"preservative, colour fixative"
+260,A,E,,glacial acetic acid,"preservative, acidity regulator"
+261,A,E,,potassium acetates,"preservative, acidity regulator"
+262,A,E,,"sodium acetate, sodium hydrogen acetate","preservative, acidity regulator"
+263,A,E,,calcium acetate,"preservative, acidity regulator"
+264,A,,,ammonium acetate,"preservative, acidity regulator"
+265,,,,dehydroacetic acid,preservative
+266,,,,sodium dehydroacetate,preservative
+270,A,E,,lactic acid,"acidity regulator, preservative, antioxidant"
+280,A,E,,propionic acid,preservative
+281,A,E,,sodium propionate,preservative
+282,A,E,,calcium propionate,preservative
+283,A,E,,potassium propionate,preservative
+284,,E,,boric acid,preservative
+285,,E,,"sodium tetraborate, borax",preservative
+290,A,E,,carbon dioxide,"acidity regulator, propellant"
+296,A,E,,malic acid,acidity regulator
+297,A,E,,fumaric acid,acidity regulator
+300,A,E,,ascorbic acid,antioxidant (water-soluble)
+301,A,E,,sodium ascorbate,antioxidant (water-soluble)
+302,A,E,,calcium ascorbate,antioxidant (water-soluble)
+303,A,,,potassium ascorbate,antioxidant (water-soluble)
+304,A,E,,"ascorbyl palmitate, ascorbyl stearate",antioxidant (fat soluble)
+307,A,E,,tocopherols,
+307a,A,E,,l-alpha-tocopherol,antioxidant
+307b,A,E,,mixed tocopherol concentrate,antioxidant
+307c,A,E,,dl-alpha-tocopherol,antioxidant
+308,A,E,,gamma-tocopherol(synthetic),antioxidant
+309,A,E,,delta-tocopherol(synthetic),antioxidant
+310,A,E,U,propyl gallate,antioxidant
+311,A,E,,octyl gallate,antioxidant
+312,A,E,,dodecyl gallate,antioxidant
+315,A,E,,erythorbic acid,antioxidant
+316,A,E,,sodium erythorbate,antioxidant
+317,?,?,,erythorbin acid,antioxidant
+318,?,?,,sodium erythorbin,antioxidant
+319,A,,,tert-butylhydroquinone,antioxidant
+320,A,E,U,butylated hydroxyanisole (BHA),antioxidant (fat soluble)
+321,A,E,U,butylated hydroxytoluene (BHT),antioxidant (fat soluble)
+322,A,E,,lecithins,"antioxidant, emulsifier"
+325,A,E,,sodium lactate,food acid
+326,A,E,,potassium lactate,food acid
+327,A,E,,calcium lactate,food acid
+328,A,,,ammonium lactate,food acid
+329,A,,,magnesium lactate,food acid
+330,A,E,,citric acid,food acid
+331,A,E,,sodium citrates,food acid
+332,A,E,,potassium citrates,food acid
+333,A,E,,calcium citrates,"food acid, firming agent"
+334,A,E,,L(+)-tartaric acid,food acid
+335,A,E,,sodium tartrates,food acid
+336,A,E,,potassium tartrates,food acid
+337,A,E,,potassium sodium tartrate,food acid
+338,A,E,,phosphoric acid,food acid
+339,A,E,,sodium phosphates,mineral salt
+340,A,E,,potassium phosphates,mineral salt
+341,A,E,,calcium phosphates,"mineral salt, anti-caking agent, firming agent"
+342,A,,,ammonium phosphates,mineral salt
+343,A,E,,magnesium phosphates,"mineral salt, anti-caking agent"
+344,,,,lecithin citrate,preservative
+345,,,,magnesium citrate,acidity regulator
+349,A,,,ammonium malate,food acid
+350,A,E,,sodium malates,food acid
+351,A,E,,potassium malate,food acid
+352,A,E,,calcium malates,food acid
+353,A,E,,metatartaric acid,"food acid, emulsifier"
+354,A,E,,calcium tartrate,"food acid, emulsifier"
+355,A,E,,adipic acid,food acid
+356,,E,,sodium adipate,food acid
+357,A,E,,potassium adipate,food acid
+359,,,,ammonium adipates,acidity regulator
+363,,E,,succinic acid,food acid
+364,,,,sodium succinates,"acidity regulator, flavour enhancer"
+365,A,,,sodium fumarate,food acid
+366,A,,,potassium fumarate,food acid
+367,A,,,calcium fumarate,food acid
+368,A,,,ammonium fumarate,food acid
+370,,,,"1,4-heptonolactone",food acid
+375,A,,,"niacin (nicotinic acid), nicotinamide (vitamin B3)",colour retention agent
+380,A,E,,triammonium citrate,food acid
+381,A,,,"ferric ammonium citrate, ammonium ferrocitrate",food acid
+384,,,,isopropyl citrates,"antioxidant, preservative"
+385,A,E,,calcium disodium EDTA,preservative
+386,,,,disodium ethylenediaminetetraacetate,"antioxidant, preservative"
+387,,,,oxystearin,"antioxidant, sequestrant"
+388,,,,thiodipropionic acid,antioxidant
+389,,,,dilauryl thiodipropionate,antioxidant
+390,,,,distearyl thiodipropionate,antioxidant
+391,,,,phytic acid,preservative
+399,,,,calcium lactobionate,stabilizer
+400,A,E,,alginic acid,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+401,A,E,,sodium alginate,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+402,A,E,,potassium alginate,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+403,A,E,,ammonium alginate,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+404,A,E,,calcium alginate,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+405,A,E,,"propylene glycol alginate, propane-1,2-diol alginate","thickener, vegetable gum, stabilizer, emulsifier"
+406,A,E,,agar,"thickener, vegetable gum, stabilizer, gelling agent"
+407,A,E,U,carrageenan,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+407a,A,E,,processed eucheuma seaweed,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+409,A,,,arabinogalactan,"thickener, vegetable gum"
+410,A,E,,locust bean gum,"thickener, vegetable gum, stabilizer, gelling agent, emulsifier"
+412,A,E,,guar gum,"thickener, vegetable gum, stabilizer"
+413,A,E,,tragacanth,"thickener, vegetable gum, stabilizer, emulsifier"
+414,A,E,,"gum acacia, gum arabic","thickener, vegetable gum, stabilizer, emulsifier"
+415,A,E,,xanthan gum,"thickener, vegetable gum, stabilizer"
+416,A,E,,karaya gum,"thickener, vegetable gum, stabilizer, emulsifier"
+417,,E,,tara gum,"thickener, vegetable gum, stabilizer"
+418,A,E,,gellan gum,"thickener, vegetable gum, stabilizer, emulsifier"
+420,A,E,,sorbitol,"humectant, emulsifier, sweetener"
+421,A,E,,mannitol,"humectant, anti-caking agent, sweetener"
+422,A,E,,glycerin,"humectant, sweetener"
+425,,E,,"konjac, konjac gum, konjac glucomannate","thickener, vegetable gum"
+428,A,E,U,"gelatin, gelatine (not classified as an additive)","carrier, emulsifier, gelling agent, stabiliser, thickener"
+430,,?,,polyoxyethylene (8) stearate,"emulsifier, stabilizer"
+431,,E,,polyoxyethylene (40) stearate,emulsifier
+432,,E,,polysorbate 20,emulsifier
+433,A,E,,polysorbate 80,emulsifier
+434,,E,,polysorbate 40,emulsifier
+435,A,E,,polysorbate 60,emulsifier
+436,A,E,,polysorbate 65,emulsifier
+440,A,E,,pectin,"vegetable gum, emulsifier"
+441,,,U,"Superglycerinated hydrogenated rapeseed oil, Hydrogenated rapeseed oil superglycerinated, Superglycerinated fully hydrogenated rapeseed oil",Emulsifier
+442,A,E,,Mixed ammonium salts of phosphorylated glyceridess,emulsifier
+443,?,,,brominated vegetable oil,"emulsifier, stabiliser"
+444,A,E,,sucrose acetate isobutyrate,"emulsifier, stabiliser"
+445,,E,,glycerol esters of wood rosins,emulsifier
+450,A,E,,diphosphates,"mineral salt, emulsifier"
+451,A,E,,triphosphates,"mineral salt, emulsifier"
+452,A,E,,polyphosphates,"mineral salt, emulsifier"
+459,,E,,beta-cyclodextrin,emulsifier
+460,A,E,,"powdered cellulose, microcrystalline cellulose",anti-caking agent
+461,A,E,,methylcellulose,"thickener, emulsifier, vegetable gum"
+463,,E,,hydroxypropyl cellulose,"thickener, vegetable gum, emulsifier"
+464,A,E,,hydroxypropyl methylcellulose,"thickener, vegetable gum, emulsifier"
+465,A,E,,"methyl ethyl cellulose, ethyl methyl cellulose","thickener, vegetable gum, emulsifier"
+466,A,E,,sodium carboxymethylcellulose,emulsifier
+468,,,,crosslinked sodium carboxymethylcellulose,emulsifier
+469,,,,enzymatically hydrolyzed carboxymethyl cellulose,emulsifier
+470,A,,,magnesium stearate,"emulsifier, stabiliser"
+470a,,E,,"sodium, potassium and calcium salts of fatty acids","emulsifier, stabiliser, anti-caking agent"
+470b,,E,,magnesium salts of fatty acids,"emulsifier, stabiliser, anti-caking agent"
+471,A,E,,"mono- and diglycerides of fatty acids – glyceryl monostearate, glyceryl distearate",emulsifier
+472a,A,E,,acetic acid esters of mono- and diglycerides of fatty acids,emulsifier
+472b,A,E,,lactic acid esters of mono- and diglycerides of fatty acids,emulsifier
+472c,A,E,,citric acid esters of mono- and diglycerides of fatty acids,emulsifier
+472d,A,E,,tartaric acid esters of mono- and diglycerides of fatty acids,emulsifier
+472e,A,E,,diacetyltartaric acid esters of mono- and diglycerides of fatty acids,emulsifier
+472f,,E,,mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids,emulsifier
+473,A,E,,sucrose esters of fatty acids,emulsifier
+474,,E,,sucroglycerides,emulsifier
+475,A,E,,polyglycerol esters of fatty acids,emulsifier
+476,A,E,,polyglycerol polyricinoleate,emulsifier
+477,A,E,,propylene glycol esters of fatty acids,emulsifier
+478,?,?,,lactylated fatty acid esters of glycerol and propylene glycol,emulsifier
+479b,,E,,thermally oxidised soya bean oil,emulsifier
+480,A,,,dioctyl sodium sulfosuccinate,emulsifier
+481,A,E,,sodium stearoyl lactylate,emulsifier
+482,A,E,,calcium stearoyl lactylate,emulsifier
+483,,E,,stearyl tartarate,emulsifier
+491,A,E,,sorbitan monostearate,emulsifier
+492,A,E,,sorbitan tristearate,emulsifier
+493,,,,sorbitan monolaurate,emulsifier
+494,,E,,sorbitan monooleate,emulsifier
+495,,E,,sorbitan monopalmitate,emulsifier
+500,A,E,,"sodium carbonate, sodium bicarbonate (E500ii)",mineral salt
+501,A,E,,"potassium carbonate, potassium bicarbonate",mineral salt
+503,A,E,,"ammonium carbonate, ammonium bicarbonate",mineral salt
+504,A,E,,magnesium carbonate,"anti-caking agent, mineral salt"
+507,A,E,,hydrochloric acid,acidity regulator
+508,A,E,,potassium chloride,mineral salt
+509,A,E,,calcium chloride,mineral salt
+510,A,,,ammonium chloride,mineral salt
+511,A,E,,magnesium chloride,mineral salt
+512,A,E,,stannous chloride,"colour retention agent, antioxidant"
+513,,E,,sulfuric acid,acidity regulator
+514,A,E,,sodium sulfate,mineral salt
+515,A,E,,potassium sulfate,"mineral salt, seasoning"
+516,A,E,,calcium sulfate,"flour treatment agent, mineral salt, sequestrant, improving agent, firming agent"
+517,,E,,ammonium sulfate,"mineral salt, improving agent"
+518,A,,,"magnesium sulfate, Epsom salts","mineral salt, acidity regulator, firming agent"
+519,A,,,cupric sulfate,mineral salt
+520,,E,,aluminium sulfate,mineral salt
+521,,E,,aluminium sodium sulfate,mineral salt
+522,,E,,aluminium potassium sulfate,mineral salt
+523,,E,,aluminium ammonium sulfate,mineral salt
+524,,E,,sodium hydroxide,mineral salt
+525,,E,,potassium hydroxide,mineral salt
+526,A,E,,calcium hydroxide,mineral salt
+527,,E,,ammonium hydroxide,mineral salt
+528,,E,,magnesium hydroxide,mineral salt
+529,A,E,,calcium oxide,mineral salt
+530,,E,,magnesium oxide,anti-caking agent
+535,A,E,,sodium ferrocyanide,anti-caking agent
+536,A,E,,potassium ferrocyanide,anti-caking agent
+538,,E,,calcium ferrocyanide,anti-caking agent
+540,,,,dicalcium diphosphate,anti-caking agent
+541,A,E,,sodium aluminium phosphate,"acidity regulator, emulsifier"
+542,A,,,bone phosphate,anti-caking agent
+544,,,,calcium polyphosphates,anti-caking agent
+545,,,,ammonium polyphosphates,anti-caking agent
+551,A,E,,silicon dioxide,anti-caking agent
+552,A,E,,calcium silicate,anti-caking agent
+553a,,E,,magnesium silicate,anti-caking agent
+553b,A,E,,talc,anti-caking agent
+554,A,E,,sodium aluminosilicate (sodium aluminium silicate),anti-caking agent
+555,,E,,potassium aluminium silicate,anti-caking agent
+556,A,E,,calcium aluminosilicate (calcium aluminium silicate),anti-caking agent
+558,A,E,,bentonite,anti-caking agent
+559,A,E,,"kaolin, aluminium silicate",anti-caking agent
+570,A,E,,stearic acid,anti-caking agent
+575,A,E,,glucono delta-lactone,acidity regulator
+576,,E,,sodium gluconate,stabiliser
+577,A,E,,potassium gluconate,stabiliser
+578,A,E,,calcium gluconate,acidity regulator
+579,A,E,,ferrous gluconate,colour retention agent
+585,,E,,ferrous lactate
+620,A,E,,glutamic acid,flavour enhancer
+621,A,E,,monosodium glutamate (MSG),flavour enhancer
+622,A,E,,monopotassium glutamate,flavour enhancer
+623,A,E,,calcium diglutamate,flavour enhancer
+624,A,E,,monoammonium glutamate,flavour enhancer
+625,A,E,,magnesium diglutamate,flavour enhancer
+626,,,,guanylic acid,flavour enhancer
+627,A,E,,disodium guanylate,flavour enhancer
+628,,E,,dipotassium guanylate,flavour enhancer
+629,,E,,calcium guanylate,flavour enhancer
+630,,E,,inosinic acid,flavour enhancer
+631,A,E,,disodium inosinate,flavour enhancer
+632,,E,,dipotassium inosinate,flavour enhancer
+633,,E,,calcium inosinate,flavour enhancer
+634,,E,,calcium 5'-ribonucleotides,flavour enhancer
+635,A,E,,disodium 5'-ribonucleotides,flavour enhancer
+636,A,,,maltol,flavour enhancer
+637,A,,,ethyl maltol,flavour enhancer
+640,A,E,,glycine,flavour enhancer
+641,A,,,leucine,flavour enhancer
+650,,E,,zinc acetate,flavour enhancer
+900,A,E,,dimethylpolysiloxane,"emulsifier, anti-caking agent"
+901,A,E,,beeswax,glazing agent
+902,,E,,candelilla wax,glazing agent
+903,A,E,,carnauba wax,glazing agent
+904,A,E,,shellac,glazing agent
+905,A,E,,paraffins,glazing agent
+907,,,,refined microcrystalline wax,glazing agent
+912,,E,,montanic acid esters,humectant
+914,A,E,,oxidised polyethylene wax,humectant
+920,A,E,,L-cysteine,flour treatment agent
+924,,,U,potassium bromate,flour treatment agent
+925,A,,,chlorine,flour treatment agent
+926,A,,,chlorine dioxide,flour treatment agent
+927b,,E,,carbamide,flour treatment agent
+928,A,,,benzoyl peroxide,flour treatment agent
+938,,E,,argon,propellant
+939,,E,,helium,propellant
+941,A,E,,nitrogen,propellant
+942,A,E,,nitrous oxide,propellant
+943a,,E,,butane,propellant
+943b,,E,,isobutane,propellant
+950,A,E,,Acesulfame potassium,artificial sweetener
+951,A,E,,aspartame,artificial sweetener
+952,A,E,,"cyclamic acid, cyclamates",artificial sweetener
+953,A,E,,isomalt,humectant
+954,A,E,,saccharin,artificial sweetener
+955,A,,,sucralose,artificial sweetener
+956,A,,,alitame,artificial sweetener
+957,A,E,,thaumatin,"flavour enhancer, artificial sweetener"
+959,,E,,neohesperidin dihydrochalcone,artificial sweetener
+965,A,E,,maltitol,"humectant, stabiliser"
+966,A,E,,lactitol,humectant
+967,A,E,,xylitol,"humectant, stabiliser"
+999,,E,,quillaia extract,humectant
+1001,A,,,choline salts and esters,emulsifier
+1100,A,,,amylases,flour treatment agent
+1102,A,,,glucose oxidase,antioxidant
+1103,,E,,invertase,?
+1104,A,,,lipases,flavour enhancer
+1105,A,E,,lysozyme,preservative
+1200,A,E,,polydextrose,humectant
+1201,A,E,,poly vinyl pyrrolidone,?
+1202,A,E,,polyvinylpolypyrrolidone,colour stabiliser
+1400,A,,,dextrin roasted starch,"thickener, vegetable gum"
+1401,A,,,acid treated starch,"thickener, vegetable gum"
+1402,A,,,alkaline treated starch,"thickener, vegetable gum"
+1403,A,,,bleached starch,"thickener, vegetable gum"
+1404,A,E,,oxidised starch,"thickener, vegetable gum"
+1405,A,,,enzyme treated starch,"thickener, vegetable gum"
+1410,A,E,,monostarch phosphate,"thickener, vegetable gum"
+1412,A,E,,distarch phosphate,"thickener, vegetable gum"
+1413,A,E,,phosphated distarch phosphate,"thickener, vegetable gum"
+1414,A,E,,acetylated distarch phosphate,"thickener, vegetable gum"
+1420,A,E,,acetylated starch,"thickener, vegetable gum"
+1422,A,E,,acetylated distarch adipate,"thickener, vegetable gum"
+1440,A,E,,hydroxypropyl starch,"thickener, vegetable gum"
+1442,A,E,,hydroxypropyl distarch phosphate,"thickener, vegetable gum"
+1450,A,E,,starch sodium octenylsuccinate,"thickener, vegetable gum"
+1451,,E,,acetylated oxidised starch,"thickener, vegetable gum"
+1505,A,E,,triethyl citrate,"thickener, vegetable gum"
+1510,,,,ethanol (not classified as an additive),alcohol
+1518,A,E,,triacetin,humectant
+1520,A,E,,propylene glycol,humectant
+1521,A,,,Polyethylene glycol[citation needed],antifoaming agent
