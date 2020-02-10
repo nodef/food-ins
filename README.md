@@ -1,7 +1,3 @@
-# food-ins
-
-[![NPM](https://nodei.co/npm/food-ins.png)](https://nodei.co/npm/food-ins/)
-
 The **International Numbering System for Food Additives** (**INS**) is a [European]-based
 naming system for [food additives], aimed at providing a short designation of what may be a
 lengthy actual name. It is defined by [Codex Alimentarius], the international food standards
