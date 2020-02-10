@@ -11,34 +11,34 @@ additional additives or removal of existing ones on an ongoing basis".
 ## console
 
 ```bash
-foode "E101a"
-# E101a: Riboflavin-5'-Phosphate
-# .type: color (Yellow-orange); .status: e
+foodins "102"
+# 102: tartrazine
+# .type: colour (yellow and orange) (FDA: FD&C Yellow #5); .status: a e
 
-foode "101 a"
-# E101a: Riboflavin-5'-Phosphate
-# .type: color (Yellow-orange); .status: e
+foodins "ins 102"
+# 102: tartrazine
+# .type: colour (yellow and orange) (FDA: FD&C Yellow #5); .status: a e
 
-foode "riboflavin"
-# E101a: Riboflavin-5'-Phosphate
-# .type: color (Yellow-orange); .status: e
+foodins "ins 160 d (iii)"
+# 160d(iii): lycopene, Blakeslea trispora
+# .type: colour; .status: a e
 #
-# E106: Riboflavin-5-Sodium Phosphate
-# .type: color (Yellow); .status: 
+# 160d: lycopenes
+# .type: ; .status: a e
 # ...
 ```
 
 ### reference 
 
 ```bash
-foode [options] <query>
+foodins [options] <query>
 # query: code, name, type, or status of food additive
 # Options:
 # --help: show this help
 # --silent: hide error messages
 
 # Environment variables:
-$FOODE_SILENT # hide error messages (0)
+$FOODINS_SILENT # hide error messages (0)
 ```
 <br>
 
@@ -46,21 +46,21 @@ $FOODE_SILENT # hide error messages (0)
 ## javascript
 
 ```javascript
-const foode = require('food-e');
+const foodins = require('food-ins');
 
-foode('E101a');
+foodins('E101a');
 // [ { code: 'E101a',
 //     names: 'Riboflavin-5\'-Phosphate',
 //     type: 'color (Yellow-orange)',
 //     status: 'e' } ]
 
-foode('101 a');
+foodins('101 a');
 // [ { code: 'E101a',
 //     names: 'Riboflavin-5\'-Phosphate',
 //     type: 'color (Yellow-orange)',
 //     status: 'e' } ]
 
-foode('riboflavin');
+foodins('riboflavin');
 // [ { code: 'E101a',
 //     names: 'Riboflavin-5\'-Phosphate',
 //     type: 'color (Yellow-orange)',
