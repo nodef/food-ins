@@ -11,7 +11,8 @@ var index = lunr(function() {
     this.add({key: r.code, code: r.code.replace(/[\(\)]/g, ' '), names: r.names, type: r.type, status: r.status});
 });
 function foodins(txt) {
-  txt = txt.replace(/^\s*(ins)?\s*(\d\d\d+)\s*([a-z])?\s*(\([ivx]+\))?\s*?$/i, '$2$3$4').replace(/[\(\)]/g, ' ');
+  txt = txt.replace(/(^|\s+)(ins\s*)?(\d\d\d+)\s*([a-z])?\s*(\([ivx]+\))?(\s+?|$)/gi, ' $3$4$5 ').replace(/[\(\)]/g, ' ');
+  // console.log(txt);
   var mats = index.search(txt), z = [];
   for(var mat of mats)
     z.push(corpus.get(mat.ref));
@@ -19,3 +20,4 @@ function foodins(txt) {
 };
 foodins.corpus = corpus;
 module.exports = foodins;
+// console.log(foodins('z ins 100 (ii)')[0]);
