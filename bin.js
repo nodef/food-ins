@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const foodins = require('./');
 
 // Parse text to boolean.
