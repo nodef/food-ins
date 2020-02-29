@@ -1,5 +1,4 @@
 const csv = require('csv');
-const path = require('path');
 const fs = require('fs');
 const os = require('os');
 
@@ -10,22 +9,11 @@ function read(file, fn) {
     stream.on('data', fn);
     stream.on('end', fres);
   });
-};
-
-function convert(row) {
-  var code = row['INS'];
-  var status = row['Approvals A'].includes('A')? 'a ':'';
-  status += row['Approvals E'].includes('E')? 'e ':'';
-  status += row['Approvals U'].includes('U')? 'u ':'';
-  var names = row['Names'];
-  var type = row['Type'];
-  status = status.trim();
-  return {code, names, type, status};
-};
+}
 
 function load() {
   var z = [];
-  return read('index.csv', (row) => z.push(convert(row))).then(() => z);
+  return read('index.csv', (row) => z.push(row)).then(() => z);
 };
 
 load().then((rows) => {
