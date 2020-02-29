@@ -84,6 +84,8 @@ foodins('ins 160 d (iii)');
 
 [![nodef](https://merferry.glitch.me/card/food-ins.svg)](https://nodef.github.io)
 
+> Browserified, minified version of this package is [food-ins.min].
+
 [foodins]: https://github.com/nodef/food-ins/wiki
 [load]: https://github.com/nodef/food-ins/wiki/load
 [sql]: https://github.com/nodef/food-ins/wiki/sql
@@ -96,3 +98,4 @@ foodins('ins 160 d (iii)');
 [WHO]: https://en.wikipedia.org/wiki/World_Health_Organisation
 [FAO]: https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization
 [UN]: https://en.wikipedia.org/wiki/United_Nations
+[food-ins.min]: https://www.npmjs.com/package/food-ins.min
