@@ -1,11 +1,14 @@
-const csv = require('csv');
 const fs = require('fs');
 const os = require('os');
+const csvParse = require('csv-parse');
+
+
+
 
 function read(file, fn) {
   if(!fs.existsSync(file)) return Promise.resolve();
   return new Promise((fres) => {
-    var stream = fs.createReadStream(file).pipe(csv.parse({columns: true}));
+    var stream = fs.createReadStream(file).pipe(csvParse({columns: true}));
     stream.on('data', fn);
     stream.on('end', fres);
   });

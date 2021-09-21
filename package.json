@@ -1,6 +1,6 @@
 {
   "name": "food-ins",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "description": "The International Numbering System for Food Additives (INS) is a European-based naming system for food additives, aimed at providing a short designation of what may be a lengthy actual name.",
   "main": "index.js",
   "preferGlobal": true,
@@ -8,6 +8,8 @@
     "foodins": "bin.js"
   },
   "scripts": {
+    "build": "node ./build",
+    "deploy": "node ./build && ebuild publish+github --publishMin=false --publishBranch=false",
     "test": "exit"
   },
   "repository": {
@@ -55,14 +57,12 @@
     "url": "https://github.com/nodef/food-ins/issues"
   },
   "homepage": "https://github.com/nodef/food-ins#readme",
-  "devDependencies": {
-    "csv": "^5.3.1",
-    "find-npm-prefix": "^1.0.2",
-    "recast": "^0.18.7",
-    "tempy": "^0.4.0"
-  },
   "dependencies": {
-    "lunr": "^2.3.8",
+    "lunr": "^2.3.9",
     "sql-extra": "^0.1.13"
+  },
+  "devDependencies": {
+    "csv-parse": "^4.16.3",
+    "extra-build": "^1.4.3"
   }
 }
