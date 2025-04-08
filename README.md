@@ -86,6 +86,8 @@ foodins('ins 160 d (iii)');
 
 > Browserified, minified version of this package is [food-ins.min].
 
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/food-ins)
+
 [foodins]: https://github.com/nodef/food-ins/wiki
 [load]: https://github.com/nodef/food-ins/wiki/load
 [sql]: https://github.com/nodef/food-ins/wiki/sql
